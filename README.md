@@ -1,5 +1,7 @@
 # Frontier Exploration for Disaster Management UAVs
 
+**Note**: This repositry is currently under refractring so parts of the code might not be integrable or usable at any given time. Apologies for the inconvenience. 
+
 This ROS package provides a 2D frontier exploration stack for autonomous navigation of UAVs. It includes frontier extraction, candidate point generation, path planning and motion planning modules. The motion planning module is interfaced with Pixhawk (PX4) controller. The entire package is modular in nature and path planning or motion planning modules can be easily replaced as per need.
 
 Please cite our paper if you use this project in your research:
