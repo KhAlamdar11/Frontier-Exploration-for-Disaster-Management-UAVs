@@ -1,4 +1,4 @@
-# Capstone-2D-exploration-stack
+# Frontier-Exploration-for-Disaster-Management-UAVs
 
 This ROS package provides a 2D frontier exploration stack for autonomous navigation of UAVs. It includes frontier extraction, candidate point generation, path planning (A*) and motion planning modules.
 The motion planning module is interfaced with Pixhawk (PX4) controller.
